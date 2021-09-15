@@ -2,7 +2,7 @@
   "name": "sa-gitlab-kit",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://sbycrosz.github.io/sa-gitlab-kit",
+  "homepage": "http://stashaway-engineering.github.io/sa-gitlab-kit",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
