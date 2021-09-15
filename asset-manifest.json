@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sa-gitlab-kit/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/sa-gitlab-kit/static/js/main.e9f4cc80.chunk.js",
+    "main.js.map": "/sa-gitlab-kit/static/js/main.e9f4cc80.chunk.js.map",
+    "runtime-main.js": "/sa-gitlab-kit/static/js/runtime-main.3cc65c41.js",
+    "runtime-main.js.map": "/sa-gitlab-kit/static/js/runtime-main.3cc65c41.js.map",
+    "static/js/2.0489a40e.chunk.js": "/sa-gitlab-kit/static/js/2.0489a40e.chunk.js",
+    "static/js/2.0489a40e.chunk.js.map": "/sa-gitlab-kit/static/js/2.0489a40e.chunk.js.map",
+    "static/js/3.ed0a0e1d.chunk.js": "/sa-gitlab-kit/static/js/3.ed0a0e1d.chunk.js",
+    "static/js/3.ed0a0e1d.chunk.js.map": "/sa-gitlab-kit/static/js/3.ed0a0e1d.chunk.js.map",
+    "index.html": "/sa-gitlab-kit/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/sa-gitlab-kit/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.0489a40e.chunk.js.LICENSE.txt": "/sa-gitlab-kit/static/js/2.0489a40e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3cc65c41.js",
+    "static/js/2.0489a40e.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.e9f4cc80.chunk.js"
+  ]
+}
